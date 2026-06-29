@@ -1,6 +1,7 @@
 My time was recorded by lookout's timelapse.  View that here:  
 # Lookout Lapse:
 https://f8d710a55cb9b516d88635f103c2c9f2.r2.cloudflarestorage.com/collapse/timelapses/aa44a0d7-80a0-4d84-bb8b-95a1e5659762/timelapse.mp4?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=0202b4ab358a840324620139ad382aee%2F20260629%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20260629T192740Z&X-Amz-Expires=3600&X-Amz-Signature=b0a14b34be671ca41f2f79ac0acf99133592a7921da8a5c7b1a646dc780d2c27&X-Amz-SignedHeaders=host&x-id=GetObject  
+
 Total time spent on the project: 2hrs + 2hrs unrecorded  
 Title: Self-Balancer  
 Author: Me, Noah Walsh  
