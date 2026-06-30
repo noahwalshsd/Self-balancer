@@ -4,14 +4,20 @@ Design vids:
 2.5 hours https://lookout.hackclub.com/api/media/aa44a0d7-80a0-4d84-bb8b-95a1e5659762/video.mp4  
 30mins https://lookout.hackclub.com/api/media/b5064e55-f320-460e-b29a-70e33d25c191/video.mp4  
 
-Total time spent on the project: 2hrs + 2hrs unrecorded  
+Total time spent on the project: 3hrs + .5hrs unrecorded  
 Title: Self-Balancer  
 Author: Me, Noah Walsh  
 Description: Flying drone for fun!  
 
-# 6/27-28/26: (one sitting) 4hrs
+# 6/27-28/26: (one sitting) 3hrs recorded  
 Project started and finished. I got the CAD done, shopped. I concluded that the common SG90 servos were sufficient, especially with a linkage mechanism. After that, I found a cheap nano and MPU 6050. These will all come in to form a nice systm powered by usbc. I also completed most of the coding, alsbiet with the minor help of Chat GPT. The code looks AId because it was spliced together from screenshots bc my computer restarted.  
 <img width="527" height="662" alt="image" src="https://github.com/user-attachments/assets/85683e7a-2ebe-48bb-a641-f7c05c50a4ea" />
 <img width="380" height="661" alt="image" src="https://github.com/user-attachments/assets/2a42e169-16f6-4833-a94b-dda599b10c02" />
 <img width="737" height="607" alt="image" src="https://github.com/user-attachments/assets/f638d7cf-0b69-498f-b62d-503a8438f78a" />
 <img width="450" height="311" alt="image" src="https://github.com/user-attachments/assets/57113ff3-8245-4e6a-98a1-74959026ec3e" />
+<img width="346" height="617" alt="image" src="https://github.com/user-attachments/assets/7dd8b0b9-2ef3-4ecb-be98-cc674257fc59" />
+
+# 6/28/26: (one sitting) 0.5hrs unrecorded  
+My laptop crashed, but I had the lookout saved, so I had AI transcribe and splice my screenshots of my lapses together to make a script. I then edited that script to eliminate the acceleration caused by it correcting itself. The corrected code should stabilize itself and have a dead zone of .5 degrees on either side.
+<img width="276" height="644" alt="image" src="https://github.com/user-attachments/assets/5953d25b-0ac0-407f-ac45-8c591627d841" />
+<img width="466" height="621" alt="image" src="https://github.com/user-attachments/assets/b4462ecb-18e0-471a-80de-5bd720d0bebd" />
